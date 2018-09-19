@@ -1,0 +1,12 @@
+{
+  "name": "svg-clone-sprite",
+  "version": "1.0.0",
+  "description": "clone elements from an svg sprite file into separate svg elements",
+  "dependencies": {},
+  "keywords": [
+    "svg",
+    "sprite",
+    "clone",
+    "browser"
+  ]
+}
