@@ -8,5 +8,6 @@
     "sprite",
     "clone",
     "browser"
-  ]
+  ],
+  "license": "BSD"
 }
