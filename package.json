@@ -1,6 +1,6 @@
 {
   "name": "svg-clone-sprite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "clone elements from an svg sprite file into separate svg elements",
   "dependencies": {},
   "keywords": [
